@@ -60,6 +60,16 @@
       "meaning": "Unable to fetch dictionary result right now. Try again later.",
       "examples": [],
       "savedAt": "2026-02-17T10:15:16.308Z"
+    },
+    {
+      "word": "finetuning",
+      "phonetic": "",
+      "partOfSpeech": "verb",
+      "meaning": "To make small adjustments to (something) until it is optimal.",
+      "examples": [
+        "Jim fine-tuned the radio until the sound was perfect."
+      ],
+      "savedAt": "2026-02-17T10:22:39.695Z"
     }
   ]
 }
