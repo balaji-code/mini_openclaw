@@ -1,0 +1,1 @@
+User reads financial news daily at 7:00 AM

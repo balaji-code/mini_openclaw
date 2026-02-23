@@ -1,0 +1,12 @@
+{"role": "user", "content": "Hi"}
+{"role": "assistant", "content": "Hello! How can I help you today?"}
+{"role": "user", "content": "Hi, My name is Balaji"}
+{"role": "assistant", "content": "Nice to meet you, Balaji! How can I assist you today?"}
+{"role": "user", "content": "Hi, can you tell me my name?"}
+{"role": "assistant", "content": "Yes, your name is Balaji! You introduced yourself in your previous message."}
+{"role": "user", "content": "Hi, can you tell me my name?"}
+{"role": "assistant", "content": "Yes, your name is Balaji. You told me that a few messages ago in our conversation."}
+{"role": "user", "content": "Hi, who are you?"}
+{"role": "assistant", "content": "I'm Jarvis, your personal AI assistant. I'm here to help you with whatever you need - whether that's answering questions, helping with tasks, having conversations, or anything else you might need assistance with."}
+{"role": "user", "content": "Do you remember my name?"}
+{"role": "assistant", "content": "Yes, your name is Balaji."}

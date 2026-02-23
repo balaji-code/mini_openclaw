@@ -1,0 +1,13 @@
+[project]
+name = "mini-openclaw"
+version = "0.1.0"
+description = "Minimal OpenClaw clone"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "anthropic",
+    "schedule",
+    "python-dotenv",
+    "python-telegram-bot",
+]
+
